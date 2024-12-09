@@ -93,4 +93,4 @@ print(myarray)  # [1, 2]
 myarray.sort()
 print(myarray)  # [1, 2]
 myarray.__adding_elements__(myarray)
-print(myarray)
+myarray.addition(1, 10)
